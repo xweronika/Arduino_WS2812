@@ -13,5 +13,3 @@ https://www.youtube.com/watch?v=v3U43Ooq9AI
 ![Alt text](http://212.237.23.206/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=505&a=true&file=diody7.jpg&t=ZMTZSV0J9esuDar&scalingup=0)
 
 ![Alt text](http://212.237.23.206/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=505&a=true&file=diody8.png&t=VKuHjodtp821M5r&scalingup=0)
-
-![Alt text](http://212.237.23.206/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=505&a=true&file=diody5.jpg&t=2fQ0L10dUpnA5U3&scalingup=0)
