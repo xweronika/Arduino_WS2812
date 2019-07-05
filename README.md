@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=v3U43Ooq9AI
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=v3U43Ooq9AI)
 
+[linkname](https://www.youtube.com/watch?v=v3U43Ooq9AI)
+
 
 ![Alt text](http://212.237.23.206/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=505&a=true&file=diody4.jpg&t=Fc4Aqo7ybMuUmP7&scalingup=0)
 
